@@ -25,7 +25,7 @@ module.exports = {
     plugins: [
         new CopyPlugin([
             {
-                from: '/Users/hwatsonbenjamin/Desktop/FullStackProject/Yummaly/public/favicon.ico',
+                from: '/Users/hwatsonbenjamin/Project/TriviaFullApp/public/favicon.ico',
                 to: this.output
             },
         ])
